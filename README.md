@@ -8,3 +8,5 @@ Week-4 Task
 
 
 ##RQT
+![#3](https://user-images.githubusercontent.com/113494159/192157358-b07e4bb3-2891-4b0f-8369-ff4241ee19ac.png)
+![#4](https://user-images.githubusercontent.com/113494159/192157362-ff19aa73-21f4-4dd0-8269-9eadd3180303.png)
