@@ -44,3 +44,12 @@ ros2 run rqt_console rqt_console
 ```
 
 ![#4](https://user-images.githubusercontent.com/113494159/192157362-ff19aa73-21f4-4dd0-8269-9eadd3180303.png)
+
+5. **Creating Another Turtle**
+
+
+![#5](https://user-images.githubusercontent.com/113494159/192176295-2c9a0cf5-2442-4835-a402-482695e1b519.png)
+
+
+![2 turtles](https://user-images.githubusercontent.com/113494159/192176320-9273e666-9863-47a7-9960-40d77490d4a2.png)
+519.png)
